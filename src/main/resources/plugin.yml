@@ -1,0 +1,10 @@
+name: jk_color_code
+version: '${project.version}'
+main: jiekie.ColorCodePlugin
+api-version: '1.20'
+authors: [Jiekie]
+description: 색코드 확인 플러그인
+commands:
+  색코드:
+    description: 색코드 확인 명령어
+    usage: /색코드
