@@ -8,3 +8,5 @@ commands:
   색코드:
     description: 색코드 확인 명령어
     usage: /색코드
+    permission: jk.color_code.command
+    permission-message: ''
