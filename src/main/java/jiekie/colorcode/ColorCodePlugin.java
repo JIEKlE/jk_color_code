@@ -1,6 +1,6 @@
-package jiekie;
+package jiekie.colorcode;
 
-import jiekie.command.ColorCodeCommand;
+import jiekie.colorcode.command.ColorCodeCommand;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class ColorCodePlugin extends JavaPlugin {

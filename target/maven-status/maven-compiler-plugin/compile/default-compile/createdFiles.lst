@@ -1,4 +1,4 @@
-jiekie\ColorCodePlugin.class
-jiekie\util\ChatUtil.class
-jiekie\util\SoundUtil.class
-jiekie\command\ColorCodeCommand.class
+jiekie\colorcode\util\ChatUtil.class
+jiekie\colorcode\command\ColorCodeCommand.class
+jiekie\colorcode\ColorCodePlugin.class
+jiekie\colorcode\util\SoundUtil.class

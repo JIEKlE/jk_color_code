@@ -1,7 +1,7 @@
-package jiekie.command;
+package jiekie.colorcode.command;
 
-import jiekie.ColorCodePlugin;
-import jiekie.util.ChatUtil;
+import jiekie.colorcode.ColorCodePlugin;
+import jiekie.colorcode.util.ChatUtil;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
